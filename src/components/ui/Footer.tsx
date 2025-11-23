@@ -10,10 +10,11 @@ function Footer() {
         <div >
           <div className="relative w-[120px] mb-3 h-[34px] ">
             <Image
-              layout="fill"
+              fill
+              sizes="120px"
               className=""
               src={"/logo.png"}
-              alt="Easp up logo"
+              alt="EaseUp logo"
             />
           </div>
           <ul className="text-[13px] flex flex-col gap-y-3 w-full">

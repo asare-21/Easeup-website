@@ -16,16 +16,18 @@ function HeroSection() {
             <Image
               className="basis-1 lg:basis-1/2 object-cover"
               src={"/electrician.png"}
-              layout="fill"
-              alt="image of an electrician"
+              fill
+              sizes="(max-width: 1024px) 100vw, 50vw"
+              alt="Professional electrician at work"
             />
           </div>
           <div className="hidden lg:block basis-1/2 relative">
             <Image
               className="basis-1/2 object-cover"
               src={"/client.png"}
-              layout="fill"
-              alt="image of an electrician"
+              fill
+              sizes="50vw"
+              alt="Happy client receiving service"
             />
           </div>
         </div>

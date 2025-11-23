@@ -17,10 +17,11 @@ setSideBar(!displaySideBar)
       
         <div className="relative w-[120px] h-[34px]">
         <Image
-          layout="fill"
+          fill
+          sizes="120px"
           className=""
           src={"/logo.png"}
-          alt="Easp up logo"
+          alt="EaseUp logo"
         />
         </div>
         <nav className='hidden lg:block'>

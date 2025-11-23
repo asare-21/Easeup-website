@@ -33,7 +33,7 @@ function AboutSection() {
             hassle-free and transparent.
           </Paragraph>
           <Paragraph delay={0.3}>
-            Whether youre a client in need of home improvement services or a
+            Whether you&apos;re a client in need of home improvement services or a
             skilled tradesperson seeking opportunities, EaseUp and the Beaver
             mobile app are here to simplify your experience.
           </Paragraph>
