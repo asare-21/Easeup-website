@@ -17,10 +17,10 @@ function FaqSection() {
           </div>
 
           <Paragraph delay={0.2} className="leading-7">
-            Weve compiled a list of commonly asked questions to provide you with
-            quick and easy access to the information you need. Were always
-            expanding our FAQ section, so if you dont find the answer to your
-            question here, please feel free to contact us
+            We&apos;ve compiled a list of commonly asked questions to provide you with
+            quick and easy access to the information you need. We&apos;re always
+            expanding our FAQ section, so if you don&apos;t find the answer to your
+            question here, please feel free to contact us.
           </Paragraph>
         </div>
         <motion.div

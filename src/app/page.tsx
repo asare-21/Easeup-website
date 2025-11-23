@@ -5,9 +5,7 @@ import Footer from "@/components/ui/Footer"
 import HeroSection from "@/components/home/HeroSection"
 import OurAppsSection from "@/components/home/OurAppsSection"
 
-
-
-function page() {
+export default function Page() {
     return (
        <main className="w-full h-fit   bg-background ">
         
@@ -20,5 +18,3 @@ function page() {
        </main>
     )
 }
-
-export default page

@@ -17,8 +17,8 @@ function OurAppsSection() {
         <div className="text-center lg:text-left  basis-1/2 flex flex-col justify-center gap-y-6">
         <Heading2>Our Apps</Heading2>
           <Paragraph delay={0.1} className="leading-6">
-            <span className="block"> Mobile App Platform:</span>
-            At the heart of EaseUps operations is our innovative mobile app,
+            <span className="block">Mobile App Platform:</span>
+            At the heart of EaseUp&apos;s operations is our innovative mobile app,
             providing a seamless platform for handymen and clients to connect
             effortlessly.
           </Paragraph>
@@ -41,7 +41,7 @@ function OurAppsSection() {
               width={300}
               height={400}
               className=" absolute lg:block hidden left-[50%] -translate-x-[calc(50%+50px)]  object-contain w-full z-10 h-full"
-             alt={"craftsmen smilling 2"}
+             alt="EaseUp mobile app - handyman profile screen"
              />
              
                <Image
@@ -49,14 +49,14 @@ function OurAppsSection() {
               width={300}
               height={400}
               className="absolute left-[50%] lg:block hidden -translate-x-[calc(50%-50px)] top-0 h-full object-contain  w-full"
-             alt={"craftsmen smilling 1"}
+             alt="EaseUp mobile app - service selection screen"
              />
                 <Image
              src="/man-helmet.png"
               width={300}
               height={400}
               className=" absolute lg:hidden block left-[50%] -translate-x-[calc(50%+50px)]  object-contain w-full z-10 h-full"
-             alt={"craftsmen smilling 2"}
+             alt="Professional craftsman with safety helmet"
              />
              
                <Image
@@ -64,7 +64,7 @@ function OurAppsSection() {
               width={300}
               height={400}
               className="absolute left-[50%] lg:hidden block -translate-x-[calc(50%-50px)] top-0 h-full object-contain  w-full"
-             alt={"craftsmen smilling 1"}
+             alt="EaseUp popular services screen"
              />
           
         
